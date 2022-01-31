@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1018194829872",
+    "project_id": "formulario-72240",
+    "storage_bucket": "formulario-72240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018194829872:android:8b02b72056b7f76c0043f5",
+        "android_client_info": {
+          "package_name": "com.moviles.formulario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018194829872-bao4kub07chg89b0qopbdk1lg5t509eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsvrqqpLbol67THPI-ZVP_sw3oUlonL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018194829872-bao4kub07chg89b0qopbdk1lg5t509eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018194829872:android:f2536128477efee10043f5",
+        "android_client_info": {
+          "package_name": "ec.edu.itsqmet.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018194829872-bao4kub07chg89b0qopbdk1lg5t509eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJsvrqqpLbol67THPI-ZVP_sw3oUlonL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018194829872-bao4kub07chg89b0qopbdk1lg5t509eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
