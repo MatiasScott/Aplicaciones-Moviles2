@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247972758158",
+    "project_id": "login-eedb0",
+    "storage_bucket": "login-eedb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247972758158:android:c6ebcc80d983de56323fdf",
+        "android_client_info": {
+          "package_name": "com.example.login_singup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247972758158-knscfl0e538qgv7lgut5l3786qqp30kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj_9hOV5s07R6m6AvdWU-PNhRAHyVBZ9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247972758158-knscfl0e538qgv7lgut5l3786qqp30kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
